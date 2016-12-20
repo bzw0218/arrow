@@ -14,6 +14,11 @@
             {
                 "title":"选项0,0",
                 "id":"0,0",
+<<<<<<< HEAD
+=======
+                /*"Multiselect":false, //是否可以多选
+                "beSelectMulti":false  //是否可以被多次选中*/
+>>>>>>> 5991e56211d4133b5a798621e4a8857ebbbcf22c
             },
             {
                 "title":"选项0,1",
@@ -46,8 +51,33 @@
             {
                 "title":"选项2,3",
                 "id":"2,3"
+<<<<<<< HEAD
+=======
             }
-        ]
+        ]/*,
+        [
+            {
+                "title":"选项3,0",
+                "id":"3,0",
+                "Multiselect":false
+            },
+            {
+                "title":"选项3,1",
+                "id":"3,1",
+                "Multiselect":false
+            },
+            {
+                "title":"选项3,2",
+                "id":"3,2",
+                "Multiselect":false
+            },
+            {
+                "title":"选项3,3",
+                "id":"3,3",
+                "Multiselect":false
+>>>>>>> 5991e56211d4133b5a798621e4a8857ebbbcf22c
+            }
+        ]*/
     ]
 
     paint.config(canvEle,canv,options,{width:40,height:15,bgColor:"orange"}).init();
